@@ -13,7 +13,7 @@ Some of these graphs can be found in the presentation of the [Regression chapter
 
 1. Sigmoidal perceptron - uses gradient descent to calculate the minimum value of the conditional probability:
 
-<img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/sigmoidal-perceptron/log_likelohood.png">
+<img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/sigmoidal-perceptron/regression.png">
 
 <img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/sigmoidal-perceptron/ponderi.png">
 
@@ -27,7 +27,7 @@ Mushroom W is edible: True
 
 2. Logistic regression (ascending gradient method) - uses the ascending gradient to calculate the maximum value of the conditional probability:
 
-<img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/logistic-regression-gradient/log_likelohood.png">
+<img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/logistic-regression-gradient/log_likelihood.png">
 
 <img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/logistic-regression-gradient/ponderi.png">
 
@@ -45,11 +45,11 @@ Mushroom W is edible: True
  w_4 = -1.51094581
 ```
 
-2. Logistic regression (Newton-Raphson method) - uses the Hessian matrix and the gradient vector to calculate the maximum value of the conditional probability:
+3. Logistic regression (Newton-Raphson method) - uses the Hessian matrix and the gradient vector to calculate the maximum value of the conditional probability:
 
-<img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/logistic-regression-newton-raphson/log_likelohood.png">
+<img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/logistic-regresssion-newton-raphson/log_likelihood.png">
 
-<img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/logistic-regression-newton-raphson/ponderi.png">
+<img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/logistic-regresssion-newton-raphson/ponderi.png">
 
 Final results (for 10 iterations):
 
