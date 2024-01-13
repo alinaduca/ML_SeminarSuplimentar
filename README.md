@@ -2,7 +2,7 @@
 
 This repository includes implementations of the sigmoidal perceptron, logistic regression using the gradient ascending method and logistic regression using the Newton-Raphson method, made for the additional Machine Learning seminar.
  
-The dataset used is the one from the mushroom problem, exercise 4.2 on page 470 of the [Machine Learning Exercise Collection] (https://profs.info.uaic.ro/~ciortuz/ML.ex-book/editia-2023f/ex-book.20sept2023.pdf):
+The dataset used is the one from the mushroom problem, exercise 4.2 on page 470 of the [Machine Learning Exercise Collection](https://profs.info.uaic.ro/~ciortuz/ML.ex-book/editia-2023f/ex-book.20sept2023.pdf):
 
 <img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/dataset.png">
 
