@@ -48,8 +48,8 @@ def gradient_descent(X, y, theta, alpha, num_iterations):
         w_4.append(theta[4, 0])
         cost = cost_function(X, y, theta)[0, 0]
         J_history.append(cost)
-        if (iteration + 1) % 100 == 0:
-            print('Costul pentru iteratia ' + str(iteration + 1) + ' este ' + str(cost))
+        # if (iteration + 1) % 100 == 0:
+            # print('Costul pentru iteratia ' + str(iteration + 1) + ' este ' + str(cost))
     return theta, J_history
 
 
