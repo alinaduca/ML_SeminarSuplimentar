@@ -6,7 +6,7 @@ The dataset used is the one from the mushroom problem, exercise 4.2 on page 470 
 
 <img align="center" src="https://github.com/alinaduca/ML_SeminarSuplimentar/blob/main/dataset.png">
 
-Some of these graphs can be found in the presentation of the [Regression chapter](https://profs.info.uaic.ro/~ciortuz/ML.ex-book/SLIDES/ML.ex-book.SLIDES.Regression.pdf) presented in the Machine Learning course at the Faculty of Informatics of the "Al. I. Cuza" University in Iasi, academic year 2023-2024.
+Some of these graphs can be found in the presentation of the [Regression chapter](https://profs.info.uaic.ro/~ciortuz/ML.ex-book/SLIDES/ML.ex-book.SLIDES.Regression.pdf) presented in the Machine Learning course at the Faculty of Computer Science of the "Al. I. Cuza" University in Iasi, academic year 2023-2024.
 
 
 ## Results and graphs
